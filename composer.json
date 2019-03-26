@@ -1,12 +1,14 @@
 {
-    "name": "thuc/core",
-    "type": "composer-plugin",
+    "name": "tranvanthuc/hello-world",
+    "description": "This library to demo composer",
+    "type": "library",
     "authors": [
         {
             "name": "Tran Van Thuc",
             "email": "tranvanthucduytan@gmail.com"
         }
     ],
+    "license": "MIT",
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
